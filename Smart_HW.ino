@@ -4,9 +4,9 @@
 #include <BlynkSimpleEsp8266.h>
 
 
-char auth[] = "nc2eRq5U5SdVV9Lw7epWyxIe6KvimTPr";//Enter your Auth token
-char ssid[] = "real";//Enter your WIFI name
-char pass[] = "12345678n";//Enter your WIFI password
+char auth[] = "nc2eRq5U5SdVV9Lw7epWyxIe6KvimTPr";//My Auth token
+char ssid[] = "real";//My WIFI name
+char pass[] = "12345678n";//My WIFI password
 
 BlynkTimer timer;
 bool Relay = 0;
